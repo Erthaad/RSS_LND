@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Roaster de Jugadores</title>
+        <link></link>
+        <description>Roaster del equipo completo de Fnatic</description>
+        <lastBuildDate>Thu, 13 May 2024 00:00:00 GMT</lastBuildDate>
+        <item>
+            <title>Derker</title>
+            <link></link>
+            <description>¡Campeón indiscutible de la Liga Circuito Tormenta!</description>
+            <pubDate>Mon, 02 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Alfajer</title>
+            <link></link>
+            <description>Ganan en el mapa de Split 12-5</description>
+            <pubDate>Sun, 01 May 2024 00:00:00 GMT</pubDate>
+        </item>
+                <item>
+            <title>Boaster</title>
+            <link></link>
+            <description>Ganan en el mapa de Pearl 13-0</description>
+            <pubDate>Mon, 02 May 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

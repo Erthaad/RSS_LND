@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>roaster de la semana</title>
+  <description>Las últimas roaster de nuestros productos y servicios</description>
+  <link>http://tu-sitio.com/rss/roaster_semana.xml</link>
+  <item>
+    <title>Descuento en producto A</title>
+    <description>Disfruta de un 20% de descuento en el producto A hasta el fin de mes.</description>
+    <pubDate>Fri, 07 May 2024 12:00:00 GMT</pubDate>
+    <guid>http://tu-sitio.com/oferta1</guid>
+  </item>
+  <item>
+    <title>Promoción 2x1 en servicio B</title>
+    <description>Contrata el servicio B y recibe el segundo año totalmente gratis. Oferta válida hasta nuevo aviso.</description>
+    <pubDate>Fri, 07 May 2024 12:00:00 GMT</pubDate>
+    <guid>http://tu-sitio.com/oferta2</guid>
+  </item>
+  <item>
+    <title>Regalo exclusivo por compra</title>
+    <description>Recibe un regalo exclusivo con cada compra superior a $100.</description>
+    <pubDate>Fri, 07 May 2024 12:00:00 GMT</pubDate>
+    <guid>http://tu-sitio.com/oferta3</guid>
+  </item>
+</channel>
+</rss>

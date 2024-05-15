@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Últimas Noticias</title>
+        <link></link>
+        <description>Las últimas noticias destacadas de Valorant.</description>
+        <lastBuildDate>Thu, 13 May 2024 00:00:00 GMT</lastBuildDate>
+        <item>
+            <title>Nuevo Arma en el juego</title>
+            <link></link>
+            <description>Riot Games presenta una nueva arma que cambiara completamente el meta del juego actual.</description>
+            <pubDate>Mon, 02 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Nuevo Mapa en Valorant</title>
+            <link></link>
+            <description>Riot Games presenta el nuevo mapa del juego, con escondites únicos y emocionantes picks.</description>
+            <pubDate>Mon, 02 May 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Nuevo Agente Revelado</title>
+            <link></link>
+            <description>Riot Games presenta al nuevo agente de Valorant, con habilidades únicas y emocionantes.</description>
+            <pubDate>Sun, 01 May 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
